@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../new-portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js lesson"
+	}
+}

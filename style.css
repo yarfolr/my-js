@@ -1,0 +1,13 @@
+.btn{
+	background-color: #ffff;
+	padding: 10px;
+
+}
+.box{
+	background-color: #F00;
+	height: 0;
+
+}
+.active{
+	height: 90dvh;
+}                   
